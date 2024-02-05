@@ -1,0 +1,7 @@
+Why are you interested in taking CMSC320?
+
+I am interested in learning how to clean data for processing in ML models. 
+I am also interested in learning more about ML models themselves and when to
+use which model. Moreover, I think learning how to visualize data would be a 
+cool skill in its own right without getting into the slightly cooler ML 
+implications
